@@ -22,6 +22,4 @@ const planets = {
 
 const name = prompt('행성의 이름을 입력해 주세요);
 console.log(planets[name]);
-
-
 */
