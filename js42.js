@@ -15,7 +15,7 @@ function result(){
 }
 
 /* 원래답안
-```jsx
+
 const month = prompt('월을 입력하세요.');
 const date = prompt('일을 입력하세요.');
 
@@ -26,6 +26,4 @@ function solution(a,b){
     return day[x.getDay()];
 }
 console.log(solution(month, date));
-```
-
 */
