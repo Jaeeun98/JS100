@@ -35,5 +35,4 @@ for (let j=0; j<b.length; j++){
 }
 
 console.log(s);
-
 */
