@@ -1,6 +1,6 @@
 //버블 정렬 구현하기
 function bubble(arr) {
-    let result = arr.slice(); 
+    let result = arr.slice(); //원본 배열 복사
   
     for (let i = 0; i < result.length - 1; i++) {
       for (let j = 0; j < result.length-1; j++) {
